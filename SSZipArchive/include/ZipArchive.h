@@ -19,5 +19,5 @@ FOUNDATION_EXPORT const unsigned char ZipArchiveVersionString[];
 #if COCOAPODS
 #import <SSZipArchive/SSZipArchive.h>
 #else
-#import <SSZipArchive/include/SSZipArchive.h>
+#import <ZipArchive/SSZipArchive.h>
 #endif
